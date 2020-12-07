@@ -52,3 +52,8 @@ const promptArr = [
 ]
 
 // Function to write the markdown file
+function writeFunc(file, responses) {
+    fs.writeFile(file, responses);
+    console.log("Success");
+}
+
