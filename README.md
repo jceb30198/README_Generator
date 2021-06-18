@@ -20,4 +20,3 @@ N/A
 
 ## Personal: 
 - GitHub: jceb30198
-- Email: jack30198@gmail.com
